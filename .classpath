@@ -3,7 +3,10 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="D:/j2ee-workspace/workspacestudy/TIJ4-code"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_45"/>
-	<classpathentry kind="lib" path="D:/j2ee-workspace/workspacestudy/tij4/javassist.jar"/>
-	<classpathentry kind="lib" path="D:/j2ee-workspace/workspacestudy/tij4/xom-1.2.10.jar"/>
+	<classpathentry kind="lib" path="javassist.jar"/>
+	<classpathentry kind="lib" path="xom-1.2.10.jar"/>
+	<classpathentry kind="lib" path="tools.jar"/>
+	<classpathentry kind="lib" path="jnlp-1.2.jar"/>
+	<classpathentry kind="lib" path="swt.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
